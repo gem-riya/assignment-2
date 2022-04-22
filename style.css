@@ -4,16 +4,19 @@
   
   
   body {
-    background-image: url('s7svpf3b2rceidakwe5h.webp');
+     background-image: url('gemini.png'); 
+     background-repeat: no-repeat;
+     background-size: cover;
+    /* background: pink;
     background-size: contain;
-    width: 220px;
-    height: 200px;
+    width: 100%;
+    height: 100%;
     border: 2px solid;
     resize: both;
     /* overflow: scroll; */
 
     
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;
     font-family: var(--myfont);
     display: flex;
     align-items: center;
@@ -22,7 +25,7 @@
     width: 100vw;
     background-position: center;
     background-size:cover;
-    opacity: 0.9;
+    opacity: 0.9; */
 }
 
   
